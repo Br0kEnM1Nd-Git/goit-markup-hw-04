@@ -201,10 +201,15 @@ ul {
   font-style: normal;
 }
 
-.address:hover,
-.address:focus {
+.address-ul > li:first-child > .address:hover,
+.address-ul > li:first-child > .address:focus {
   color: var(--OCEAN);
 }
+
+/* .address:hover,
+.address:focus {
+  color: var(--OCEAN);
+} */
 
 /* Footer */
 
