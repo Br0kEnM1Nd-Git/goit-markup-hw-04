@@ -297,6 +297,17 @@ ul {
   gap: 24px;
 }
 
+.our-advantages-icon {
+  display: block;
+  width: 64px;
+  height: 64px;
+  margin: auto;
+}
+
+.oa-icon-container {
+  padding: 24px 0;
+  margin-bottom: 8px;
+}
 /* What Are We Doing */
 
 .wawd {
