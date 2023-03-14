@@ -270,8 +270,14 @@ ul {
 /* Hero */
 
 .hero-section {
+  width: 1440px; /* timely fix */
+  margin: 0 auto; /* timely fix */
   padding: 188px 0;
   background-color: var(--brand-color);
+  background-image: url(../images/hero-background.jpg);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
 }
 
 .hero-container {
