@@ -483,7 +483,6 @@ ul {
 
 .p-card {
   max-width: calc(100% - 48px / 3);
-  width: 360px;
 }
 
 .p-card:hover {
